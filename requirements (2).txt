@@ -1,6 +1,6 @@
-tensorflow
+tensorflow==2.16.1
+streamlit
 numpy
 pandas
-scikit-learn
-streamlit
+
 
